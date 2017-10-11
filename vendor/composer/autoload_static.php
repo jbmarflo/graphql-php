@@ -15,6 +15,7 @@ class ComposerStaticInit3ac56019c557b4de3c226258f4e26603
         'bd9634f2d41831496de0d3dfe4c94881' => __DIR__ . '/..' . '/symfony/polyfill-php56/bootstrap.php',
         '6a47392539ca2329373e0d33e1dba053' => __DIR__ . '/..' . '/symfony/polyfill-intl-icu/bootstrap.php',
         '32dcc8afd4335739640db7d200c1971d' => __DIR__ . '/..' . '/symfony/polyfill-apcu/bootstrap.php',
+        'c594688b3441835d5575f3085da4a242' => __DIR__ . '/..' . '/webonyx/graphql-php/src/deprecated.php',
         '719971e375036615a0685b6fb054583d' => __DIR__ . '/..' . '/symfony/symfony/src/Symfony/Component/VarDumper/Resources/functions/dump.php',
     );
 
@@ -58,6 +59,10 @@ class ComposerStaticInit3ac56019c557b4de3c226258f4e26603
         'I' => 
         array (
             'Incenteev\\ParameterHandler\\' => 27,
+        ),
+        'G' => 
+        array (
+            'GraphQL\\' => 8,
         ),
         'F' => 
         array (
@@ -181,6 +186,10 @@ class ComposerStaticInit3ac56019c557b4de3c226258f4e26603
         'Incenteev\\ParameterHandler\\' => 
         array (
             0 => __DIR__ . '/..' . '/incenteev/composer-parameter-handler',
+        ),
+        'GraphQL\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/webonyx/graphql-php/src',
         ),
         'Fig\\Link\\' => 
         array (
